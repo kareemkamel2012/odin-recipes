@@ -1,0 +1,42 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(215, 111, 111);
+    text-align: center;
+    line-height: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    color:rgb(33, 31, 31)
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(144, 67, 67);
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.pages li {
+    font-size: 30px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+img {
+    padding: 20px;
+}
